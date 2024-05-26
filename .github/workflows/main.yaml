@@ -14,4 +14,4 @@ jobs:
           token: ${{ secrets.WORKFLOW_TOKEN }}
       - run: git remote add mirrored https://github.com/BlindfoldedSurgery/actions-container.git
       - run: git fetch mirrored 'refs/tags/*:refs/tags/*'
-      - run: git push origin --tags
+      - run: git push origin --tags --force
