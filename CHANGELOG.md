@@ -1,3 +1,9 @@
+## v7.1.1 (2025-04-30)
+
+### Fix
+
+- change syntax of git options
+
 ## v7.1.0 (2025-04-30)
 
 ### Feat
