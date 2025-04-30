@@ -1,3 +1,9 @@
+## v7.1.0 (2025-04-30)
+
+### Feat
+
+- add submodule support
+
 ## v7.0.0 (2025-01-31)
 
 ### Feat
