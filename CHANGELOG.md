@@ -1,3 +1,10 @@
+## v7.3.0 (2025-05-25)
+
+### Feat
+
+- add dual buildah workflow
+- add build-image-buildah
+
 ## v7.2.0 (2025-05-23)
 
 ### Feat
