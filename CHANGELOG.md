@@ -1,3 +1,9 @@
+## v7.3.1 (2025-05-25)
+
+### Fix
+
+- **dual-buildah**: remove custom runner options
+
 ## v7.3.0 (2025-05-25)
 
 ### Feat
