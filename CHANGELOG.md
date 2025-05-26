@@ -1,3 +1,10 @@
+## v7.4.0 (2025-05-26)
+
+### Feat
+
+- **dual-buildah**: re-add custom runner options
+- **buildah**: run in container
+
 ## v7.3.1 (2025-05-25)
 
 ### Fix
