@@ -1,3 +1,9 @@
+## v7.4.2 (2025-10-09)
+
+### Fix
+
+- remove required permissions from merge-manifests
+
 ## v7.4.1 (2025-10-09)
 
 ### Fix
