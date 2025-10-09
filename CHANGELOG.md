@@ -1,3 +1,9 @@
+## v7.4.1 (2025-10-09)
+
+### Fix
+
+- request reuqired permissions for clean and merge
+
 ## v7.4.0 (2025-05-26)
 
 ### Feat
