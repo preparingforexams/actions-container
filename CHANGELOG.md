@@ -1,3 +1,9 @@
+## v7.4.3 (2025-10-10)
+
+### Fix
+
+- **clean**: don't require contents permission
+
 ## v7.4.2 (2025-10-09)
 
 ### Fix
