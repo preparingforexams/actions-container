@@ -5,9 +5,21 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+
 jobs:
+  required-meta:
+    permissions:
+      contents: read
+      checks: write
+      pull-requests: write
+    uses: BlindfoldedSurgery/actions-meta/.github/workflows/required.yml@v2
+
   mirror:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v5
         with:
